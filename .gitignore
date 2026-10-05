@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vs/
+*.user
+
+# Build output
+bin/
+obj/
+
+# User secrets (managed by dotnet user-secrets, never committed)
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
